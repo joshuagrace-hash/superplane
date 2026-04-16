@@ -16,8 +16,8 @@ use such as Git, CI/CD, observability, incident response, infra, and notificatio
 
 This project is in alpha stage and moving quickly. Expect rough edges and occasional
 breaking changes while we stabilize the core model and integrations.
-If you try it and hit something confusing, please [open an issue](https://github.com/superplanehq/superplane/issues/new).
-Early feedback is extremely valuable.
+If you try it and hit something confusing or broken, please [open an issue](https://github.com/superplanehq/superplane/issues/new).
+Early feedback is extremely valuable and appreciated.
 
 ## What it does
 
